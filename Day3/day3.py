@@ -40,6 +40,7 @@ with open('Day3\day3input.txt') as file:
         result+=ord(r)-96
       counter=0
       setList=[]
+      
   print(result)
     
     
